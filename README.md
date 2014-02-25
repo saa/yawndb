@@ -449,5 +449,6 @@ yawndb_packet_struct *encode_yawndb_packet(int8_t isSpecial,
 ```
 
 Authors
+-------
 
-YAWNDB was written by  [Dmitry Groshev (https://github.com/si14/) in 2012. [Alexandre Neganov](https://github.com/ikkeps), [Kagami Hiiragi](https://github.com/kagami), [Maxim Mitroshin](https://github.com/rocco66), [Pavel Abalikhin](https://github.com/tnt-dev) and [Fyodor Gogolev](https://github.com/knsd) also contributed to the project.
+YAWNDB was written by  [Dmitry Groshev](https://github.com/si14/) in 2012. [Alexandre Neganov](https://github.com/ikkeps), [Kagami Hiiragi](https://github.com/kagami), [Maxim Mitroshin](https://github.com/rocco66), [Pavel Abalikhin](https://github.com/tnt-dev) and [Fyodor Gogolev](https://github.com/knsd) also contributed to the project.
